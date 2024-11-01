@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sn00px
-- 👀 I’m interested in many topic based on fluid mechanics.
-- 🌱 I’m currently learning C++ and OpenFOAM
-- 📫 How to reach me -> dzrnic@tugraz.at
+- 👋 Hi, I’m Dino (@Sn00px)
+- 👀 I’m interested in scientific topics in analytical and computational fluid mechanics.
+- 🌱 I’m passionate about learning C++, OpenFOAM, Fluent, Python, LaTeX, and other relevant softwares. 
+- 📫 How to reach me -> dzrnic@tugraz.at or dinozrnic1@gmail.com
 
 <!---
 Sn00px/Sn00px is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
